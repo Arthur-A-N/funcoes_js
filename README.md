@@ -1,1 +1,1 @@
-Funçoes js que criei para praticar no inicio do meu aprendizado.
+Funçoes js que criei para desafios.
